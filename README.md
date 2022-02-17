@@ -1,6 +1,6 @@
 # amo_naghash
 
-amo_naghash
+This software is for calculating the invoice of construction painters
 
 ## Getting Started
 
